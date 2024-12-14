@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrimeNumbers {
+public class primenumber{
 
     // Method to check if a number is prime
     public static boolean isPrime(int number) {
@@ -48,4 +48,3 @@ public class PrimeNumbers {
 
         scanner.close();
     }
-}
